@@ -13,6 +13,13 @@ Hope you are well out there!
 - ⚡ Fun fact about myself:
       - I do boxing as a sport
       - Played rugby
+- Coding languages I've worked with:
+
+- Java Programming language
+- SQL database
+- Python Programming language
+- HTML 
+- Socket, client and server based coding
 
 -Projects I have done:
   
