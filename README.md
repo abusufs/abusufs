@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**abusufs/abusufs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hope you are well out there!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on giving my best in my final year of my Bachelors degree in Computer Science and Information Systems. In the near future, if I do not study further(honours) I would like to work as soon as possible as I always need to be busy with something.
+- 💬 My interests/hobbies:
+      - I love indulging in deep talks, always love tought provoking conversations
+- 📫 How to reach me: 
+      - email address: abubrandt@gmail.com
+      - cell: 0768700498
+      - whatsapp: 0768700498
+- ⚡ Fun fact about myself:
+      - I do boxing as a sport
+      - Played rugby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Projects I have done:
+  
+-Umbrashop- this was a project meant to address a socio-economic issue within South Africa. I created this website then to solve the socio-economic problem of local artisans not being able to promote their products to sell. Also, many middlemen that sell their products take a huge percentage of their products. It also promotes local South African culture and creates more oppotunities for upcoming local artisans.
+
+
 -->
